@@ -10,6 +10,12 @@ public static void main(String[] args) {
 	System.out.println("pk");
 	System.out.println("rt");
 	System.out.println("mk");
+	
+	System.out.println("pk");
+	System.out.println("rt");
+	System.out.println("mk");
+	
+	
 }
 
 
